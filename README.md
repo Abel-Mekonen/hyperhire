@@ -8,7 +8,6 @@
   <h3 align="center">Hyperhire Web Assessment</h3>
 
   <p align="center">
-  
     <br />
     <a href="#">View Demo</a>
     ·
